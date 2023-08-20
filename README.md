@@ -16,7 +16,7 @@ Routes in this application allow users to interact with different features such 
 Set up the database using MySQL, and then use node seeds to import the data. Then run the application using server.js.
 
 ## Walkthrough Video
-[Walkthrough video](https://drive.google.com/file/d/1Tlm7wo1G1GrkPsMErP4B6-I2Y302jy8v/view)
+[Walkthrough video](https://drive.google.com/file/d/1Tlm7wo1G1GrkPsMErP4B6-I2Y302jy8v/view?pli=1)
 
 ## License
 ```
